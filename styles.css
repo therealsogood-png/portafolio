@@ -7,3 +7,5 @@
 @media(max-width:370px){.shell{width:calc(100% - 30px)}h1{font-size:64px}.character{letter-spacing:-4px}.sculpture-stage{height:400px}.project-tags>span:last-child{display:none}.project-wordmark{font-size:16px}.project-wordmark.serif{font-size:17px}.project-switch button{padding:7px 8px}.preview-window{height:210px}.contact-title h2{font-size:46px}.contact-title>span{font-size:47px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.reveal{opacity:1!important;translate:0!important}.cursor,.cursor-dot,.trail-spark{display:none!important}.custom-cursor,.custom-cursor a,.custom-cursor button,.custom-cursor canvas{cursor:auto}}
 @media(max-width:760px){.preview-window{height:auto;aspect-ratio:2.05}.preview-window img{min-height:100%;width:100%}} @media(max-width:370px){.section-heading h2{font-size:46px}.count{right:-30px;font-size:10px}}
+
+.project-bottom{justify-content:flex-end}
